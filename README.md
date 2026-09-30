@@ -62,8 +62,13 @@ Leaderboard / Predictions
 
 ## 📸 Screenshots
 
+### Homepage
 <img width="1906" height="963" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ba552b17-1620-4e73-8f5f-06f4870532f4" />
+
+### Predictions
 <img width="1904" height="961" alt="Screenshot_3" src="https://github.com/user-attachments/assets/d64726d2-4476-4578-afc1-8141188da071" />
+
+### Leaderboard
 <img width="1903" height="962" alt="Screenshot_2" src="https://github.com/user-attachments/assets/60a45d2c-5725-49dd-bad0-40a6eef4e515" />
 
 ## 🚀 Status
